@@ -12,7 +12,6 @@ public class Factorial
 		int n=sc.nextInt();
 	
 		long fact=1;
-			
 		int i=1;
 	
 		for(i=1;i<=n;i++)
