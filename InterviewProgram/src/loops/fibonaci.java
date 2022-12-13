@@ -7,10 +7,10 @@ public class fibonaci
     
     public static void main(String[] args) 
     {
-        Scanner scan=new Scanner(System.in);
+        Scanner sc=new Scanner(System.in);
         
         System.out.println("Enter Number of Terms");
-        int n=scan.nextInt();
+        int n=sc.nextInt();
 		
 		int a=0,b=1,c;
 		System.out.print(a+","+b+",");
