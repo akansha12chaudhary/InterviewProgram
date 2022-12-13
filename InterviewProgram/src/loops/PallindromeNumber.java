@@ -23,5 +23,6 @@ public class PallindromeNumber
 		else
 		System.out.println("Its not a Pallindrome Number ");
 		
+		
 	}
 }
